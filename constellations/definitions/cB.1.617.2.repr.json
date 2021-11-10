@@ -1,0 +1,66 @@
+{
+    "label": "Delta (B.1.617.2-like) representative",
+    "description": "Defining constellation for representative of lineage B.1.617.2",
+    "sources": [
+        "https://github.com/cov-lineages/pango-designation/issues/49"
+    ],
+    "type": "variant",
+    "variant": {
+        "Pango_lineages": [
+            "B.1.617.2",
+            "AY.1",
+            "AY.2"
+        ],
+	    "mrca_lineage": "B.1.617.2",
+        "lineage_name": "B.1.617.2",
+        "incompatible_lineage_calls": [
+            "AY.1",
+            "AY.2",
+            "AY.4",
+            "AY.4.2"
+        ],
+        "PHE_label": "VOC-21APR-02",
+        "WHO_label": "Delta",
+        "representative_genome": ""
+    },
+    "tags": [
+        "B.1.617.2 (representative)",
+        "VOC-21APR-02",
+        "Delta (representative)",
+        "VUI-21APR-02"
+    ],
+    "sites": [
+        "ORF1ab:P309L",
+        "ORF1ab:P1640L",
+        "ORF1ab:A3209V",
+        "ORF1ab:V3718A",
+        "ORF1ab:P4715L",
+        "ORF1ab:G5063S",
+        "ORF1ab:P5401L",
+        "S:T19R",
+        "S:G142D",
+        "S:EF156del",
+        "S:R158G",
+        "S:L452R",
+        "S:T478K",
+        "S:D614G",
+        "S:P681R",
+        "S:D950N",
+        "ORF3a:S26L",
+        "M:I82T",
+        "ORF7a:V82A",
+        "ORF7a:L116F",
+        "ORF7a:T120I",
+        "ORF8:DF119del",
+        "N:D63G",
+        "N:R203M",
+        "N:D377Y"
+    ],
+    "rules": {
+        "min_alt": 25,
+        "max_alt": 25,
+        "max_ref": 0,
+        "max_oth": 0,
+        "max_ambig": 0
+    }
+}

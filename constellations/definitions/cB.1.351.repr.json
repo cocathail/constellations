@@ -1,0 +1,51 @@
+{
+    "label": "Beta (B.1.351-like) representative",
+	"description": "Defining constellation for representative of lineage B.1.351",
+	"sources": [
+		"https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1"
+	],
+    "type": "variant", 
+    "variant": {
+		"Pango_lineages": [
+			"B.1.351"        
+		],
+	    "mrca_lineage": "B.1.351",
+		"PHE_label": "VOC-20DEC-02",
+		"WHO_label": "Beta",
+		"representative_genome": ""
+    },
+	"tags": [
+		"B.1.351 (representative)",
+		"VOC-20DEC-02",
+		"VOC202012/02",
+		"Beta (representative)",
+		"501.V2",
+		"20H",
+		"GH"
+	],
+    "sites": [
+        "ORF1ab:T265I",
+        "ORF1ab:K1655N",
+        "ORF1ab:K3353R",
+        "ORF1ab:SGF3675del",
+        "ORF1ab:P4715L",
+        "S:D80A",
+        "S:D215G",
+        "S:LAL242del",
+        "S:K417N",
+        "S:E484K",
+        "S:N501Y",
+        "S:D614G",
+        "S:A701V",
+        "ORF3a:Q57H",
+        "E:P71L",
+        "N:T205I"
+    ],
+    "rules": {
+        "min_alt": 16,
+        "max_alt": 16,
+        "max_ref": 0,
+        "max_oth": 0,
+        "max_ambig": 0
+    }
+}
