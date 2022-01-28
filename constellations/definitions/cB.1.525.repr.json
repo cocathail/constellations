@@ -1,0 +1,47 @@
+{
+    "label": "Eta (B.1.525-like) representative",
+    "description": "Defining constellation for representative of lineage B.1.525",
+    "sources": [
+        "https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1"
+    ],
+    "type": "variant", 
+    "variant": {
+        "Pango_lineages": [
+            "B.1.525"        
+        ],
+        "mrca_lineage": "B.1.525",
+        "PHE_label": "",
+        "WHO_label": "Eta",
+        "representative_genome": ""
+    },
+    "tags": [
+        "B.1.525 (representative)",
+        "Eta (representative)"
+    ],
+    "sites": [
+        "ORF1ab:T2007I",
+        "ORF1ab:S3675_F3677del",
+        "ORF1ab:P4715F",
+        "S:Q52R",
+        "S:A67V",
+        "S:H69_V70del",
+        "S:Y144del",
+        "S:E484K",
+        "S:D614G",
+        "S:Q677H",
+        "S:F888L",
+        "E:L21F",
+        "M:I82T",
+        "ORF6:F2del"
+        "N:S2_D3del",
+        "N:A12G",
+        "N:T205I"
+    ],
+    "rules": {
+        "min_alt": 17,
+        "max_alt": 17,
+        "max_ref": 0,
+        "max_oth": 0,
+        "max_ambig": 0
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "label": "Iota (B.1.526-like) representative",
+    "description": "Defining constellation for representative of lineage B.1.526",
+    "sources": [
+        "https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1"
+    ],
+    "type": "variant", 
+    "variant": {
+        "Pango_lineages": [
+            "B.1.526"        
+        ],
+        "mrca_lineage": "B.1.526",
+        "PHE_label": "",
+        "WHO_label": "Iota",
+        "representative_genome": ""
+    },
+    "tags": [
+        "B.1.526 (representative)",
+        "Zeta (representative)"
+    ],
+    "sites": [
+        "ORF1ab:T265I",
+        "ORF1ab:S3162E",
+        "ORF1ab:L3201P",
+        "ORF1ab:A3209V",
+        "ORF1ab:S3675_F3677del",
+        "ORF1ab:P4715L",
+        "ORF1ab:Q5412H",
+        "S:L5F",
+        "S:T95I",
+        "S:F157S",
+        "S:D253G",
+        "S:E484K",
+        "S:D614G",
+        "S:A701V",
+        "S:D950H",
+        "ORF3a:P42L",
+        "ORF3a:Q57H",
+        "ORF8:T11I",
+        "ORF8:A51S",
+        "N:P199L",
+        "N:M234I"
+    ],
+    "rules": {
+        "min_alt": 21,
+        "max_alt": 21,
+        "max_ref": 0,
+        "max_oth": 0,
+        "max_ambig": 0
+    }
+}

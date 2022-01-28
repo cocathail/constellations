@@ -1,0 +1,44 @@
+{
+    "label": "Epsilon (B.1.427/1.429-like) representative",
+    "description": "Defining constellation for representative of lineage B.1.427/1.429",
+    "sources": [
+        "https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1"
+    ],
+    "type": "variant", 
+    "variant": {
+        "Pango_lineages": [
+            "B.1.427"
+            "B.1.429"        
+        ],
+        "mrca_lineage": "B.1.427",
+        "PHE_label": "",
+        "WHO_label": "Epsilon",
+        "representative_genome": ""
+    },
+    "tags": [
+        "B.1.427 (representative)",
+        "B.1.429 (representative)",
+        "Epsilon (representative)",
+    ],
+    "sites": [
+        "ORF1ab:T265I",
+        "ORF1ab:S3158T",
+        "ORF1ab:P4715L",
+        "ORF1ab:P5377L",
+        "ORF1ab:D5584Y",
+        "S:S13I",
+        "S:W154C",
+        "S:L452R",
+        "S:D614G",
+        "ORF3a:Q57H",
+        "M:I82T",
+        "N:T205I"
+    ],
+    "rules": {
+        "min_alt": 12,
+        "max_alt": 12,
+        "max_ref": 0,
+        "max_oth": 0,
+        "max_ambig": 0
+    }
+}

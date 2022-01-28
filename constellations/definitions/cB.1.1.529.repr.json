@@ -1,0 +1,69 @@
+{
+    "label": "Omicron (B.1.1.529-like) representative",
+    "description": "Defining constellation for representative of lineage B.1.1.529",
+    "sources": [
+        "https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1"
+    ],
+    "type": "variant", 
+    "variant": {
+        "Pango_lineages": [
+            "B.1.1.529"        
+        ],
+        "mrca_lineage": "B.1.1.529",
+        "PHE_label": "VOC-21NOV-01",
+        "WHO_label": "Omicron",
+        "representative_genome": ""
+    },
+    "tags": [
+        "B.1.1.529 (representative)",
+        "VOC-21NOV-01",
+        "VOC202111/01",
+        "Omicron (representative)",
+        "21M",
+        "21L",
+        "21K",
+        "GRA"
+    ],
+    "sites": [
+        "S:A67V",
+        "S:H69_V70del",
+        "S:T95I",
+        "S:G142D",
+        "S:V143_Y145del",
+        "S:L212I",
+        "S:R214_insEPE",
+        "S:G339D",
+        "S:S371L",
+        "S:373P",
+        "S:S375F",
+        "S:K417N",
+        "S:N440K",
+        "S:G446S",
+        "S:S477N",
+        "S:T478K",
+        "S:E484A",
+        "S:Q493R",
+        "S:G496S",
+        "S:Q498R",
+        "S:N501Y",
+        "S:Y505H",
+        "S:T547K",
+        "S:D614G",
+        "S:H655Y",
+        "S:N679K",
+        "S:P681H",
+        "S:N679K",
+        "S:D796Y",
+        "S:N856K",
+        "S:Q954H",
+        "S:N969K",
+        "S:L981F"
+    ],
+    "rules": {
+        "min_alt": 33,
+        "max_alt": 33,
+        "max_ref": 0,
+        "max_oth": 0,
+        "max_ambig": 0
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "label": "Alpha (B.1.1.7-like) representative",
+    "description": "Defining constellation for representative of lineage B.1.1.7",
+    "sources": [
+        "https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1"
+    ],
+    "type": "variant", 
+    "variant": {
+        "Pango_lineages": [
+            "B.1.1.7"        
+        ],
+        "mrca_lineage": "B.1.1.7",
+        "PHE_label": "VOC-20DEC-01",
+        "WHO_label": "Alpha",
+        "representative_genome": ""
+    },
+    "tags": [
+        "B.1.1.7 (representative)",
+        "VOC-20DEC-01",
+        "VOC202012/01",
+        "Alpha (representative)",
+        "20I",
+        "GRY"
+    ],
+    "sites": [
+        "ORF1ab:T1001I",
+        "ORF1ab:A1708D",
+        "ORF1ab:I2230T",
+        "ORF1ab:S3675_F3677del",
+        "ORF1ab:P4715L",
+        "S:H69_v70del",
+        "S:Y144del",
+        "S:N501Y",
+        "S:A570D",
+        "S:D614G",
+        "S:P681H",
+        "S:T716I",
+        "S:S982A",
+        "S:D1118H",
+        "ORF8:Q27*",
+        "ORF8:R52I",
+        "ORF8:Y73C",
+        "N:D3V",
+        "N:R203K",
+        "N:G204R",
+        "S235F"
+    ],
+    "rules": {
+        "min_alt": 21,
+        "max_alt": 21,
+        "max_ref": 0,
+        "max_oth": 0,
+        "max_ambig": 0
+    }
+}

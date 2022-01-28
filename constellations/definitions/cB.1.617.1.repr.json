@@ -1,0 +1,51 @@
+{
+    "label": "Kappa (B.1.617.1-like) representative",
+    "description": "Defining constellation for representative of lineage B.1.617.1",
+    "sources": [
+        "https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1"
+    ],
+    "type": "variant", 
+    "variant": {
+        "Pango_lineages": [
+            "B.1.617.1"        
+        ],
+        "mrca_lineage": "B.1.617.1",
+        "PHE_label": "",
+        "WHO_label": "Kappa",
+        "representative_genome": ""
+    },
+    "tags": [
+        "B.1.617.1 (representative)",
+        "Kappa (representative)"
+    ],
+    "sites": [
+        "ORF1ab:T1567I",
+        "ORF1ab:T3646A",
+        "ORF1ab:P4715L",
+        "ORF1ab:G5530C",
+        "ORF1ab:M5753I",
+        "ORF1ab:K6711R",
+        "ORF1ab:S6713A",
+        "S:T95I",
+        "S:G142D",
+        "S:E145K",
+        "S:L452R",
+        "S:E484Q",
+        "S:D614G",
+        "S:P681R",
+        "S:Q1071H",
+        "ORF3a:S26L",
+        "M:I82S",
+        "ORF6:I33T",
+        "ORF7a:V82A"
+        "N:R203M",
+        "N:D377Y"
+    ],
+    "rules": {
+        "min_alt": 21,
+        "max_alt": 21,
+        "max_ref": 0,
+        "max_oth": 0,
+        "max_ambig": 0
+    }
+}

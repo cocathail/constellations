@@ -1,0 +1,40 @@
+{
+    "label": "Zeta (P.2-like) representative",
+    "description": "Defining constellation for representative of lineage P.2",
+    "sources": [
+        "https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1"
+    ],
+    "type": "variant", 
+    "variant": {
+        "Pango_lineages": [
+            "P.2"        
+        ],
+        "mrca_lineage": "P.2",
+        "PHE_label": "",
+        "WHO_label": "Zeta",
+        "representative_genome": ""
+    },
+    "tags": [
+        "P.2 (representative)",
+        "Zeta (representative)"
+    ],
+    "sites": [
+        "ORF1ab:L3486V",
+        "ORF1ab:L3930F",
+        "ORF1ab:P4715L",
+        "S:E484K",
+        "S:D614G",
+        "S:V1176F",
+        "N:A119S",
+        "N:R203K",
+        "N:G204R",
+        "N:M234I"
+    ],
+    "rules": {
+        "min_alt": 10,
+        "max_alt": 10,
+        "max_ref": 0,
+        "max_oth": 0,
+        "max_ambig": 0
+    }
+}

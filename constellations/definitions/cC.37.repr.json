@@ -1,0 +1,50 @@
+{
+    "label": "Lambda (C.37-like) representative",
+    "description": "Defining constellation for representative of lineage C.37",
+    "sources": [
+        "https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1"
+    ],
+    "type": "variant", 
+    "variant": {
+        "Pango_lineages": [
+            "C.37"        
+        ],
+        "mrca_lineage": "C.37",
+        "PHE_label": "",
+        "WHO_label": "Lambda",
+        "representative_genome": ""
+    },
+    "tags": [
+        "C.37 (representative)",
+        "Lambda (representative)"
+    ],
+    "sites": [
+        "ORF1ab:T1246I",
+        "ORF1ab:P2287S",
+        "ORF1ab:F2387V",
+        "ORF1ab:L3201P",
+        "ORF1ab:T3255I",
+        "ORF1ab:G3278S",
+        "ORF1ab:S3675_F3677del",
+        "ORF1ab:P4715L",
+        "S:G75V",
+        "S:T76I",
+        "S:R246_G252del",
+        "S:L452G",
+        "S:F490S",
+        "S:D614G",
+        "S:T859N",
+        "N:P13L",
+        "N:R203K",
+        "N:G204R",
+        "N:G214C",
+        "N:T366I"
+    ],
+    "rules": {
+        "min_alt": 20,
+        "max_alt": 20,
+        "max_ref": 0,
+        "max_oth": 0,
+        "max_ambig": 0
+    }
+}
