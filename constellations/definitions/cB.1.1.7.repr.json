@@ -26,9 +26,9 @@
         "ORF1ab:T1001I",
         "ORF1ab:A1708D",
         "ORF1ab:I2230T",
-        "ORF1ab:S3675_F3677del",
+        "ORF1ab:SGF3675del",
         "ORF1ab:P4715L",
-        "S:H69_v70del",
+        "S:HV69del",
         "S:Y144del",
         "S:N501Y",
         "S:A570D",
@@ -37,13 +37,13 @@
         "S:T716I",
         "S:S982A",
         "S:D1118H",
-        "ORF8:Q27*",
+        "ORF8:Q27",
         "ORF8:R52I",
         "ORF8:Y73C",
         "N:D3V",
         "N:R203K",
         "N:G204R",
-        "S235F"
+        "N:S235F"
     ],
     "rules": {
         "min_alt": 21,

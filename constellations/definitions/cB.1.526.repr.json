@@ -20,10 +20,9 @@
     ],
     "sites": [
         "ORF1ab:T265I",
-        "ORF1ab:S3162E",
         "ORF1ab:L3201P",
-        "ORF1ab:A3209V",
-        "ORF1ab:S3675_F3677del",
+		"ORF1ab:A3209V",
+        "ORF1ab:SGF3675del",
         "ORF1ab:P4715L",
         "ORF1ab:Q5412H",
         "S:L5F",

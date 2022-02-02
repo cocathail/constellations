@@ -28,7 +28,7 @@
         "ORF1ab:S6713A",
         "S:T95I",
         "S:G142D",
-        "S:E145K",
+        "S:E154K",
         "S:L452R",
         "S:E484Q",
         "S:D614G",
@@ -37,7 +37,7 @@
         "ORF3a:S26L",
         "M:I82S",
         "ORF6:I33T",
-        "ORF7a:V82A"
+        "ORF7a:V82A",
         "N:R203M",
         "N:D377Y"
     ],

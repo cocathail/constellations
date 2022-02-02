@@ -20,11 +20,11 @@
     ],
     "sites": [
         "ORF1ab:T2007I",
-        "ORF1ab:S3675_F3677del",
+        "ORF1ab:SGF3675del",
         "ORF1ab:P4715F",
         "S:Q52R",
         "S:A67V",
-        "S:H69_V70del",
+        "S:HV69del",
         "S:Y144del",
         "S:E484K",
         "S:D614G",
@@ -32,8 +32,8 @@
         "S:F888L",
         "E:L21F",
         "M:I82T",
-        "ORF6:F2del"
-        "N:S2_D3del",
+        "ORF6:F2del",
+        "N:SD2del",
         "N:A12G",
         "N:T205I"
     ],
